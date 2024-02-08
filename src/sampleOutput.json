@@ -1,0 +1,32 @@
+{
+    "status": "ok",
+    "totalResults": 2,
+    "articles": [
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Hindu prayers begin inside India’s Mughal-era mosque after court order - Al Jazeera English",
+    "description": "Worshippers are praying inside the 17th century mosque adjacent to a Hindu temple in Varanasi after the court order.",
+    "url": "https://www.aljazeera.com/news/2024/2/1/hindu-prayers-begin-inside-indias-mughal-era-mosque-after-court-order",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/08/AP23215192740851-1691050324.jpg?resize=1920%2C1440",
+    "publishedAt": "2024-02-01T12:08:44Z",
+    "content": "Hindu worshippers have begun praying inside a 17th-century mosque in the Indian city of Varanasi, hours after a court order gave them the go-ahead at the disputed site.\r\nThe Gyanvapi Mosque in Varana… [+4876 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Iranian Drones Wreak Havoc In Red Sea; U.S. Destroyer Downs 3 UAVs, Houthi-fired Missile - Hindustan Times",
+    "description": "The US Navy carries out strikes against Iranian drones and Houthi missile in the highly volatile Red Sea on January 31. The US naval destroyer USS Carney sho...",
+    "url": "https://www.youtube.com/watch?v=QO5YxWOs0p8",
+    "urlToImage": "https://i.ytimg.com/vi/QO5YxWOs0p8/maxresdefault.jpg",
+    "publishedAt": "2024-02-01T08:55:00Z",
+    "content": null
+    }
+    ]
+    }

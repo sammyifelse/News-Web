@@ -1,0 +1,1 @@
+target="_blank" line 14 newsitem.js   This creates the read more option to see the news in a new tab more eleborately
