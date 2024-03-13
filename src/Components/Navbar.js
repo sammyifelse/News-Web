@@ -22,7 +22,6 @@ const NavBar = ()=> {
                 <li className="nav-item"><Link  className="nav-link" to="/Health">Health</Link></li>
                 <li className="nav-item"><Link  className="nav-link" to="/General">Sports</Link></li>
                 <li className="nav-item"><Link  className="nav-link" to="/Sciences">Sciences</Link></li>
-
                 </ul>
                 </div>
             </div>
